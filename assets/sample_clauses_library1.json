@@ -1,0 +1,172 @@
+[
+  {
+    "clause_text": "The rain tapped the rooftop like a restless ghost, mirroring her unease.",
+    "clause_type": "Setting",
+    "document_type": "Short Story",
+    "style_tone": "Moody",
+    "priority_level": "Core",
+    "tags": [
+      "weather",
+      "emotion",
+      "atmosphere"
+    ],
+    "region": "Pacific Northwest",
+    "country": "US",
+    "match_score": 84,
+    "ai_confidence": 87,
+    "reference_match": 80
+  },
+  {
+    "clause_text": "He never said goodbye, just left his scarf on the banister and disappeared.",
+    "clause_type": "Character Detail",
+    "document_type": "Flash Fiction",
+    "style_tone": "Melancholic",
+    "priority_level": "Core",
+    "tags": [
+      "departure",
+      "emotion",
+      "mystery"
+    ],
+    "region": "New England",
+    "country": "US",
+    "match_score": 76,
+    "ai_confidence": 72,
+    "reference_match": 80
+  },
+  {
+    "clause_text": "It was a town where nothing happened, and everyone liked it that way.",
+    "clause_type": "Worldbuilding",
+    "document_type": "Creative Essay",
+    "style_tone": "Wry",
+    "priority_level": "Peripheral",
+    "tags": [
+      "tone",
+      "humor",
+      "setting"
+    ],
+    "region": "Midwest",
+    "country": "US",
+    "match_score": 70,
+    "ai_confidence": 74,
+    "reference_match": 66
+  },
+  {
+    "clause_text": "The air cracked with static as the lightning split the sky in half.",
+    "clause_type": "Sensory Imagery",
+    "document_type": "Short Script",
+    "style_tone": "Dramatic",
+    "priority_level": "Core",
+    "tags": [
+      "sound",
+      "weather",
+      "intensity"
+    ],
+    "region": "Southeast",
+    "country": "US",
+    "match_score": 91,
+    "ai_confidence": 89,
+    "reference_match": 93
+  },
+  {
+    "clause_text": "She traced her finger along the rim of the glass, thinking of everything unsaid.",
+    "clause_type": "Internal Monologue",
+    "document_type": "Short Story",
+    "style_tone": "Reflective",
+    "priority_level": "Core",
+    "tags": [
+      "emotion",
+      "tension",
+      "character"
+    ],
+    "region": "California",
+    "country": "US",
+    "match_score": 82,
+    "ai_confidence": 86,
+    "reference_match": 78
+  },
+  {
+    "clause_text": "The contract was silent on what mattered most: the cost of leaving.",
+    "clause_type": "Metaphor",
+    "document_type": "Creative Essay",
+    "style_tone": "Poetic",
+    "priority_level": "Peripheral",
+    "tags": [
+      "emotion",
+      "philosophy",
+      "departure"
+    ],
+    "region": "Global South",
+    "country": "Brazil",
+    "match_score": 68,
+    "ai_confidence": 70,
+    "reference_match": 66
+  },
+  {
+    "clause_text": "A child\u2019s laugh echoed down the alley, chasing away the cold.",
+    "clause_type": "Hope Symbol",
+    "document_type": "Short Story",
+    "style_tone": "Uplifting",
+    "priority_level": "Optional",
+    "tags": [
+      "light",
+      "emotion",
+      "contrast"
+    ],
+    "region": "London",
+    "country": "UK",
+    "match_score": 79,
+    "ai_confidence": 81,
+    "reference_match": 77
+  },
+  {
+    "clause_text": "Every version of the truth had its own shadow.",
+    "clause_type": "Theme",
+    "document_type": "Creative Brief",
+    "style_tone": "Philosophical",
+    "priority_level": "Core",
+    "tags": [
+      "truth",
+      "mystery",
+      "perspective"
+    ],
+    "region": "Global",
+    "country": "Canada",
+    "match_score": 83,
+    "ai_confidence": 85,
+    "reference_match": 81
+  },
+  {
+    "clause_text": "She danced as if no one had ever broken her heart.",
+    "clause_type": "Irony",
+    "document_type": "Short Story",
+    "style_tone": "Bittersweet",
+    "priority_level": "Core",
+    "tags": [
+      "emotion",
+      "contrast",
+      "movement"
+    ],
+    "region": "Southern Europe",
+    "country": "Italy",
+    "match_score": 88,
+    "ai_confidence": 86,
+    "reference_match": 90
+  },
+  {
+    "clause_text": "The elevator doors opened on the wrong floor, just like fate.",
+    "clause_type": "Symbolism",
+    "document_type": "Creative Short",
+    "style_tone": "Mysterious",
+    "priority_level": "Optional",
+    "tags": [
+      "chance",
+      "symbol",
+      "fate"
+    ],
+    "region": "New York",
+    "country": "US",
+    "match_score": 75,
+    "ai_confidence": 77,
+    "reference_match": 73
+  }
+]
